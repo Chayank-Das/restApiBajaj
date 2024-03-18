@@ -6,9 +6,9 @@ app.use(bodyParser.json());
 
 app.post('/bfhl', (req, res) => {
   const data = req.body.data;
-  const userId = `Ayush_Singh_Chauhan_08092003`;
-  const email = `ayush0348.be21@chitkara.edu.in`;
-  const rollNumber = `2110990348`;
+  const userId = `Chayank_Das_0388`;
+  const email = `chayank0388.be21@chitkara.edu.in`;
+  const rollNumber = `2110990388`;
 
   const oddNumbers = [];
   const evenNumbers = [];
